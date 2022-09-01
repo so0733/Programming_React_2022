@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/154.0f4d4c72.chunk.js","mappings":"oHAAe,SAASA,IACpBC,MAAM,kCACT,C","sources":["notify.js"],"sourcesContent":["export default function notify() {\r\n    alert('안녕하세요!');\r\n}"],"names":["notify","alert"],"sourceRoot":""}
