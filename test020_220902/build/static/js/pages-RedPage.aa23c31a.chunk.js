@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[645],{3635:function(n,_,e){e.r(_),e.d(_,{default:function(){return u}});e(2791);var r=e(184),t=function(){return(0,r.jsx)("div",{className:"Red",children:"RED"})},u=function(){return(0,r.jsx)(t,{})}}}]);
+//# sourceMappingURL=pages-RedPage.aa23c31a.chunk.js.map
